@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "929664277117",
+    "firebase_url": "https://baac-ung.firebaseio.com",
+    "project_id": "baac-ung",
+    "storage_bucket": "baac-ung.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929664277117:android:6a59436157f844082eaf14",
+        "android_client_info": {
+          "package_name": "tech.baac.ung.baacastaffs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929664277117-k77492svrm9s0lhgmdslsh8p1cj6sptt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqL1RTEJgRRxFSkNZYcLJz2I2p0nvuEFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929664277117-k77492svrm9s0lhgmdslsh8p1cj6sptt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
